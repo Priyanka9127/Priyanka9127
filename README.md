@@ -12,7 +12,6 @@
 - 🤖 **Hands-On Learner** | Building impactful projects in GenAI, ML, DL, and document intelligence
 - 🛠️ **Internships**: GenAI Intern at Boxsam Technologies | Product Intern at StudentAI
 - 🔥 **Goal**: To innovate as a GenAI Engineer and push boundaries in AI-driven solutions
-- ✈️ Bonus: Engineered a drone from scratch—95% approval from 200+ attendees!
 
 ---
 
